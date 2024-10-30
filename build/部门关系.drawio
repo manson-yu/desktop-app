@@ -37,7 +37,7 @@
             <mxPoint x="280" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DFCF4VllEUapkSiBIov2-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="DFCF4VllEUapkSiBIov2-6" target="DFCF4VllEUapkSiBIov2-9">
+        <mxCell id="DFCF4VllEUapkSiBIov2-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.053;entryY=0.667;entryDx=0;entryDy=0;exitX=0.95;exitY=0.317;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="DFCF4VllEUapkSiBIov2-6" target="DFCF4VllEUapkSiBIov2-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="490" as="sourcePoint" />
             <mxPoint x="330" y="460" as="targetPoint" />
@@ -91,13 +91,13 @@
             <mxPoint x="280" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DFCF4VllEUapkSiBIov2-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DFCF4VllEUapkSiBIov2-5" target="DFCF4VllEUapkSiBIov2-8">
+        <mxCell id="DFCF4VllEUapkSiBIov2-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="DFCF4VllEUapkSiBIov2-5" target="DFCF4VllEUapkSiBIov2-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="130" y="310" as="sourcePoint" />
             <mxPoint x="410" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DFCF4VllEUapkSiBIov2-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.693;exitY=0.067;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DFCF4VllEUapkSiBIov2-8" target="DFCF4VllEUapkSiBIov2-6">
+        <mxCell id="DFCF4VllEUapkSiBIov2-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.693;exitY=0.067;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="DFCF4VllEUapkSiBIov2-8" target="DFCF4VllEUapkSiBIov2-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="500" as="sourcePoint" />
             <mxPoint x="420" y="470" as="targetPoint" />
@@ -120,6 +120,30 @@
             <mxPoint x="210" y="450" as="sourcePoint" />
             <mxPoint x="236" y="408" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DFCF4VllEUapkSiBIov2-42" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF6666;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="264" as="sourcePoint" />
+            <mxPoint x="520" y="264" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DFCF4VllEUapkSiBIov2-43" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=8 8;strokeColor=#7EA6E0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="316" as="sourcePoint" />
+            <mxPoint x="520" y="316" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DFCF4VllEUapkSiBIov2-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="438" y="370" as="sourcePoint" />
+            <mxPoint x="518" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DFCF4VllEUapkSiBIov2-45" value="管理路线，具有明确的管理要求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="250" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DFCF4VllEUapkSiBIov2-48" value="上下游部门关系，正常流程运作" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="515" y="300" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
