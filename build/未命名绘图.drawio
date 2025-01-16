@@ -4,34 +4,67 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pI2ND-z5QyWcG_e2m_dX-1" value="云表" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="90" y="40" width="160" height="180" as="geometry">
-            <mxRectangle x="90" y="40" width="70" height="30" as="alternateBounds" />
+        <mxCell id="pI2ND-z5QyWcG_e2m_dX-25" value="云表" style="swimlane;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="30" y="70" width="200" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="pI2ND-z5QyWcG_e2m_dX-2" value="成品入库&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="pI2ND-z5QyWcG_e2m_dX-25">
+          <mxGeometry x="10" y="40" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pI2ND-z5QyWcG_e2m_dX-4" value="其他出库、入库&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="pI2ND-z5QyWcG_e2m_dX-25">
+          <mxGeometry x="10" y="114" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pI2ND-z5QyWcG_e2m_dX-3" value="材料领用" style="text;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="pI2ND-z5QyWcG_e2m_dX-25">
+          <mxGeometry x="10" y="80" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pI2ND-z5QyWcG_e2m_dX-19" value="销售出库、采购入库&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="pI2ND-z5QyWcG_e2m_dX-25">
+          <mxGeometry x="10" y="150" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pI2ND-z5QyWcG_e2m_dX-31" value="资产管理&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="pI2ND-z5QyWcG_e2m_dX-25">
+          <mxGeometry x="10" y="190" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pI2ND-z5QyWcG_e2m_dX-26" value="金蝶云&amp;nbsp; 星辰" style="swimlane;whiteSpace=wrap;html=1;dashed=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="350" y="70" width="200" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="pI2ND-z5QyWcG_e2m_dX-27" value="库存管理&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="pI2ND-z5QyWcG_e2m_dX-26">
+          <mxGeometry x="10" y="33" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pI2ND-z5QyWcG_e2m_dX-28" value="财务模块 （手工凭证）&lt;div&gt;应收、应付、收款、付款&lt;/div&gt;&lt;div&gt;（没有明细，都是汇总数据）&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="pI2ND-z5QyWcG_e2m_dX-26">
+          <mxGeometry x="9" y="141" width="171" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pI2ND-z5QyWcG_e2m_dX-29" value="销售、采购" style="text;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="pI2ND-z5QyWcG_e2m_dX-26">
+          <mxGeometry x="10" y="73" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pI2ND-z5QyWcG_e2m_dX-32" value="资产管理&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="pI2ND-z5QyWcG_e2m_dX-26">
+          <mxGeometry x="10" y="201" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pI2ND-z5QyWcG_e2m_dX-33" value="进销存与财务模块不关联" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="pI2ND-z5QyWcG_e2m_dX-26">
+          <mxGeometry x="15" y="106" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pI2ND-z5QyWcG_e2m_dX-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pI2ND-z5QyWcG_e2m_dX-2" target="pI2ND-z5QyWcG_e2m_dX-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="118" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pI2ND-z5QyWcG_e2m_dX-2" value="成品入库&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="pI2ND-z5QyWcG_e2m_dX-1">
-          <mxGeometry y="30" width="160" height="30" as="geometry" />
+        <mxCell id="pI2ND-z5QyWcG_e2m_dX-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pI2ND-z5QyWcG_e2m_dX-3" target="pI2ND-z5QyWcG_e2m_dX-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="150" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="pI2ND-z5QyWcG_e2m_dX-3" value="材料领用" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="pI2ND-z5QyWcG_e2m_dX-1">
-          <mxGeometry y="60" width="160" height="30" as="geometry" />
+        <mxCell id="pI2ND-z5QyWcG_e2m_dX-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pI2ND-z5QyWcG_e2m_dX-4" target="pI2ND-z5QyWcG_e2m_dX-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pI2ND-z5QyWcG_e2m_dX-18" value="成品入库&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="pI2ND-z5QyWcG_e2m_dX-1">
-          <mxGeometry y="90" width="160" height="30" as="geometry" />
+        <mxCell id="pI2ND-z5QyWcG_e2m_dX-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pI2ND-z5QyWcG_e2m_dX-19" target="pI2ND-z5QyWcG_e2m_dX-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="235" />
+              <mxPoint x="300" y="158" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="pI2ND-z5QyWcG_e2m_dX-4" value="其他出库、入库&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="pI2ND-z5QyWcG_e2m_dX-1">
-          <mxGeometry y="120" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pI2ND-z5QyWcG_e2m_dX-19" value="销售出库、采购入库&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="pI2ND-z5QyWcG_e2m_dX-1">
-          <mxGeometry y="150" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pI2ND-z5QyWcG_e2m_dX-15" value="金蝶云&amp;nbsp; &amp;nbsp;星辰" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=39;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="40" width="30" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="pI2ND-z5QyWcG_e2m_dX-20" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="pI2ND-z5QyWcG_e2m_dX-15">
-          <mxGeometry y="39" width="30" height="19" as="geometry" />
-        </mxCell>
-        <mxCell id="pI2ND-z5QyWcG_e2m_dX-16" value="库存管理模块&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;销售、采购&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;财务模块：&lt;/div&gt;&lt;div&gt;手工凭证：应收、应付&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;付款、收款&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="pI2ND-z5QyWcG_e2m_dX-15">
-          <mxGeometry y="58" width="30" height="122" as="geometry" />
+        <mxCell id="pI2ND-z5QyWcG_e2m_dX-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pI2ND-z5QyWcG_e2m_dX-31" target="pI2ND-z5QyWcG_e2m_dX-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
