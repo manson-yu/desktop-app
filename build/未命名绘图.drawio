@@ -1,9 +1,54 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.16">
   <diagram name="第 1 页" id="3i5iYukf3JR2ciep98dT">
-    <mxGraphModel>
+    <mxGraphModel dx="786" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="70XDMRiIFwPbtUSS-XJc-1" value="公司目标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="70XDMRiIFwPbtUSS-XJc-3" value="O:部门目标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="80" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="70XDMRiIFwPbtUSS-XJc-4" value="P：业务规划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="150" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="70XDMRiIFwPbtUSS-XJc-5" value="资源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="220" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="70XDMRiIFwPbtUSS-XJc-6" value="策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="220" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="70XDMRiIFwPbtUSS-XJc-8" value="费用预算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="290" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="70XDMRiIFwPbtUSS-XJc-9" value="部门配合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="290" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="70XDMRiIFwPbtUSS-XJc-10" value="目标客户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="290" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="70XDMRiIFwPbtUSS-XJc-11" value="服务方式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="290" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="70XDMRiIFwPbtUSS-XJc-12" value="获客方式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="290" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="70XDMRiIFwPbtUSS-XJc-13" value="需求转化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="410" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="70XDMRiIFwPbtUSS-XJc-14" value="C: 订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="480" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="70XDMRiIFwPbtUSS-XJc-16" value="人员配备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="290" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="70XDMRiIFwPbtUSS-XJc-17" value="培训" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="410" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="70XDMRiIFwPbtUSS-XJc-18" value="D: 业务执行" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="350" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
